@@ -26,7 +26,7 @@
 - **Senior Roboticist** at **[RoboStore](https://robostore.com)** — developing advanced humanoid robotics systems, web-based robotics tools, and simulation platforms
 - Building **custom policy training pipelines** for the **Unitree G1 humanoid** — locomotion, manipulation, and whole-body control via reinforcement learning
 - Developing **custom multimodal LLMs** for **embodied AI** — integrating vision, language, and proprioceptive sensing on humanoid platforms
-- Created **[Robot IDE](https://robot-ide.com)** — a browser-based robotics development environment with 3D model visualization, joint control, and URDF/MJCF support
+- Created **[Robot IDE](https://robot-ide.com)** — a browser-based platform for visualizing, animating, and programming robots with 3D model loading (URDF, MuJoCo XML, USD, STL, OBJ, DAE), real-time MuJoCo physics simulation, AI policy execution (ONNX), motion library, motion planner, built-in code editor, and sequence builder
 - Built a **web-based motion & physics simulator** for the **Unitree G1** — interactive motion planning, physics visualization, and joint manipulation in the browser
 - Creating the **[RoboUniversity](https://robouniversity.teachable.com/)** course catalog — full-stack humanoid robotics education from setup to Sim2Real deployment
 - Working with **OM1 Agent Architecture**, **ROS2**, **Isaac Sim**, **MuJoCo**, and **NVIDIA Jetson Orin** for real-world humanoid intelligence
@@ -223,9 +223,11 @@ Building **custom large language models** that integrate multiple modalities for
   <tr>
     <td width="33%">
       <h3 align="center"><a href="https://robot-ide.com"> Robot IDE</a></h3>
-      <p align="center">Browser-based robotics dev environment with 3D visualization, joint control & URDF/MJCF support</p>
+      <p align="center">Full-featured browser-based platform for visualizing, animating, and programming robots</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MuJoCo-4285F4?style=flat-square"/>
+        <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white"/>
         <img src="https://img.shields.io/badge/Web%20App-00D4AA?style=flat-square"/>
       </p>
     </td>
@@ -246,6 +248,23 @@ Building **custom large language models** that integrate multiple modalities for
     </td>
   </tr>
 </table>
+
+<details>
+<summary><b>Robot IDE (robot-ide.com) -- Full Feature Summary</b></summary>
+<br/>
+
+**[Robot IDE](https://robot-ide.com)** is a browser-based platform for visualizing, animating, and programming robots.
+
+| Feature | Description |
+|:--------|:------------|
+| **3D Viewer** | Load and inspect 3D robot models in all major formats (URDF, MuJoCo XML, USD, STL, OBJ, DAE). Rotate, zoom, and explore with interactive joint sliders that move the robot in real time. Measure distances between parts, toggle coordinate axes, and view a graph of the robot's joint tree. |
+| **Physics Simulation** | Run real-time MuJoCo physics simulations directly in the browser. Load an AI policy (ONNX format) to have the robot walk or perform tasks autonomously using a trained neural network. |
+| **Motion Library** | Browse a gallery of pre-built robot motions. Play any motion on the loaded robot, search and filter by category, and upload your own CSV motion files. Supports bulk import from external datasets. |
+| **Motion Planner** | Place waypoints on a map to plan robot paths. Compile motion sequences, calibrate motion parameters, and visualize trails. Save and manage deployment missions with persistent storage. |
+| **Code Editor** | Edit URDF and XML robot model files in a built-in code editor with syntax highlighting. Changes are reflected live in the 3D viewer. Manage multiple files in a file tree panel. |
+| **Sequence Builder** | Chain together multiple motions into a sequence and play them back in order on the robot. |
+
+</details>
 
 ### <img src="https://img.shields.io/badge/-F7DF1E?style=flat-square" height="14"/> Drones, Rovers & Simulation
 
