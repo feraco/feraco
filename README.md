@@ -21,22 +21,25 @@
 
 ## About Me
 
-> **Robotics Engineer & Educator** — Building intelligent humanoid systems with the **Unitree G1**, developing custom RL policies, and creating multimodal AI frameworks for embodied intelligence. Course creator at **[RoboUniversity](https://robouniversity.teachable.com/)**.
+> **Senior Roboticist at [RoboStore](https://robostore.com) | Robotics Engineer & Educator** — Building intelligent humanoid systems with the **Unitree G1**, developing custom RL policies, and creating multimodal AI frameworks for embodied intelligence. Course creator at **[RoboUniversity](https://robouniversity.teachable.com/)**.
 
+- **Senior Roboticist** at **[RoboStore](https://robostore.com)** — developing advanced humanoid robotics systems, web-based robotics tools, and simulation platforms
 - Building **custom policy training pipelines** for the **Unitree G1 humanoid** — locomotion, manipulation, and whole-body control via reinforcement learning
 - Developing **custom multimodal LLMs** for **embodied AI** — integrating vision, language, and proprioceptive sensing on humanoid platforms
+- Created **[Robot IDE](https://robot-ide.com)** — a browser-based robotics development environment with 3D model visualization, joint control, and URDF/MJCF support
+- Built a **web-based motion & physics simulator** for the **Unitree G1** — interactive motion planning, physics visualization, and joint manipulation in the browser
 - Creating the **[RoboUniversity](https://robouniversity.teachable.com/)** course catalog — full-stack humanoid robotics education from setup to Sim2Real deployment
 - Working with **OM1 Agent Architecture**, **ROS2**, **Isaac Sim**, **MuJoCo**, and **NVIDIA Jetson Orin** for real-world humanoid intelligence
 - Published **100+ iOS apps** (135K+ downloads) through [Feraco Media](https://apps.apple.com/st/developer/feraco-media-inc/id497957884) — including AI/ML-powered tools built with ResearchKit, ARKit, and CoreML
 - Co-authored the **[DroneBlocks Robotics 101: Land. Air. Sea.](https://droneblocks.io/program/land-air-sea/)** curriculum — a year-long project-based STEM program across ground, aerial, and underwater platforms
 - Collaborated with **Stanford University** to develop [BActivate](https://apps.apple.com/us/app/bactivate/id6450705838), a digital health app integrating VR for behavioral activation therapy
 - Founded a **Coral Aquaculture Research Program** and built CoreML-powered marine species identification (350+ species)
-- Adjunct Professor of **Science of Drones** at [Five Towns College](https://www.ftc.edu/) | Formerly teaching AP CS, Cybersecurity, AI & Science Research at Walt Whitman HS
+- Science Research Teacher & Cybersecurity Instructor at **Walt Whitman High School** (2015-present) | Formerly Adjunct Professor of Drones at [Five Towns College](https://www.ftc.edu/)
 - Open to collaborations in **Humanoid Robotics, Embodied AI, RL Policy Training, Multimodal LLMs, Sim2Real Transfer**
 
 ---
 
-## Unitree G1 — Humanoid Robotics Work
+## <img src="https://img.shields.io/badge/-F7DF1E?style=flat-square" height="18"/> Unitree G1 — Humanoid Robotics Work
 
 <table>
   <tr>
@@ -87,7 +90,7 @@ Building **custom large language models** that integrate multiple modalities for
 
 ---
 
-## RoboUniversity — Course Development
+## <img src="https://img.shields.io/badge/-FF6F00?style=flat-square" height="18"/> RoboUniversity — Course Development
 
 > Building the **full-stack humanoid robotics education platform** at [RoboUniversity](https://robouniversity.teachable.com/)
 
@@ -145,9 +148,9 @@ Building **custom large language models** that integrate multiple modalities for
 
 ---
 
-## Featured Projects
+## <img src="https://img.shields.io/badge/-58A6FF?style=flat-square" height="18"/> Featured Projects
 
-### Humanoid Robotics & Embodied AI
+### <img src="https://img.shields.io/badge/-blueviolet?style=flat-square" height="14"/> Humanoid Robotics & Embodied AI
 
 <table>
   <tr>
@@ -204,14 +207,6 @@ Building **custom large language models** that integrate multiple modalities for
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><a href="https://github.com/feraco/mujoco_menagerie"> MuJoCo Menagerie</a></h3>
-      <p align="center">High-quality robot models for MuJoCo (G1 simulation)</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MuJoCo-DeepMind-4285F4?style=flat-square"/>
-      </p>
-    </td>
-    <td width="50%">
       <h3 align="center"><a href="https://github.com/feraco/loco-mujoco"> Loco-MuJoCo</a></h3>
       <p align="center">Imitation learning benchmark for complex locomotion</p>
       <p align="center">
@@ -222,13 +217,43 @@ Building **custom large language models** that integrate multiple modalities for
   </tr>
 </table>
 
-### Drones, Rovers & Simulation
+### <img src="https://img.shields.io/badge/-00D4AA?style=flat-square" height="14"/> Web Apps & Robotics Tools
 
 <table>
   <tr>
     <td width="33%">
+      <h3 align="center"><a href="https://robot-ide.com"> Robot IDE</a></h3>
+      <p align="center">Browser-based robotics dev environment with 3D visualization, joint control & URDF/MJCF support</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Web%20App-00D4AA?style=flat-square"/>
+      </p>
+    </td>
+    <td width="33%">
+      <h3 align="center"><a href="https://github.com/feraco"> G1 Motion & Physics Sim</a></h3>
+      <p align="center">Web-based motion planning & physics simulation for the Unitree G1 humanoid</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Unitree%20G1-FF6F00?style=flat-square"/>
+      </p>
+    </td>
+    <td width="33%">
       <h3 align="center"><a href="https://github.com/feraco/drone-web-sim"> Drone Web Sim</a></h3>
       <p align="center">Browser-based 3D drone flight simulator</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+### <img src="https://img.shields.io/badge/-F7DF1E?style=flat-square" height="14"/> Drones, Rovers & Simulation
+
+<table>
+  <tr>
+    <td width="33%">
+      <h3 align="center"><a href="https://github.com/feraco/drone-real-sim"> Drone Real Sim</a></h3>
+      <p align="center">Realistic drone simulation environment</p>
     </td>
     <td width="33%">
       <h3 align="center"><a href="https://github.com/feraco/rover-sim"> Rover Sim</a></h3>
@@ -241,7 +266,7 @@ Building **custom large language models** that integrate multiple modalities for
   </tr>
 </table>
 
-### Hardware, Arduino & EdTech
+### <img src="https://img.shields.io/badge/-76B900?style=flat-square" height="14"/> Hardware, Arduino & EdTech
 
 <table>
   <tr>
@@ -260,7 +285,7 @@ Building **custom large language models** that integrate multiple modalities for
   </tr>
 </table>
 
-### iOS & Mobile (Selected)
+### <img src="https://img.shields.io/badge/-0D96F6?style=flat-square" height="14"/> iOS & Mobile (Selected)
 
 <table>
   <tr>
