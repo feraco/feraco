@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,22&height=180&section=header&text=Frederick%20Feraco&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Humanoid%20Robotics%20%7C%20Embodied%20AI%20%7C%20STEM%20Education%20%7C%20iOS%20Engineering&descSize=18&descAlignY=52"/>
 
 <!-- Animated Typing -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=80&lines=+Unitree+G1+%7C+Custom+Policy+Training+%7C+Embodied+AI;+Multimodal+LLMs+%7C+RoboUniversity+%7C+Sim2Real+%7C+OM1+Agent+Architecture" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=820&height=35&lines=Building+Intelligent+Humanoids+from+Scratch;Training+Robots+to+Walk%2C+Think%2C+and+See;Senior+Roboticist+%40+RoboStore+%7C+RoboUniversity+Creator;Custom+RL+Policies+%7C+Multimodal+LLMs+%7C+Sim2Real;100%2B+iOS+Apps+%7C+135K%2B+Downloads+%7C+Stanford+Collab;STEM+Educator+%7C+Science+Research+%7C+Cybersecurity+Instructor" alt="Typing SVG" /></a>
 
 <!-- Social Badges -->
 <p>
