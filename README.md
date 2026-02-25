@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,22&height=180&section=header&text=Frederick%20Feraco&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Humanoid%20Robotics%20%7C%20Embodied%20AI%20%7C%20STEM%20Education%20%7C%20iOS%20Engineering&descSize=18&descAlignY=52"/>
 
 <!-- Animated Typing -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=80&lines=%F0%9F%A4%96+Unitree+G1+%7C+Custom+Policy+Training+%7C+Embodied+AI;%F0%9F%A7%A0+Multimodal+LLMs+%7C+RoboUniversity+%7C+Sim2Real+%7C+OM1+Agent+Architecture" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=80&lines=+Unitree+G1+%7C+Custom+Policy+Training+%7C+Embodied+AI;+Multimodal+LLMs+%7C+RoboUniversity+%7C+Sim2Real+%7C+OM1+Agent+Architecture" alt="Typing SVG" /></a>
 
 <!-- Social Badges -->
 <p>
@@ -19,55 +19,55 @@
 
 ---
 
-## 🧑‍🔬 About Me
+## About Me
 
 > **Robotics Engineer & Educator** — Building intelligent humanoid systems with the **Unitree G1**, developing custom RL policies, and creating multimodal AI frameworks for embodied intelligence. Course creator at **[RoboUniversity](https://robouniversity.teachable.com/)**.
 
-- 🤖 Building **custom policy training pipelines** for the **Unitree G1 humanoid** — locomotion, manipulation, and whole-body control via reinforcement learning
-- 🧠 Developing **custom multimodal LLMs** for **embodied AI** — integrating vision, language, and proprioceptive sensing on humanoid platforms
-- 🎓 Creating the **[RoboUniversity](https://robouniversity.teachable.com/)** course catalog — full-stack humanoid robotics education from setup to Sim2Real deployment
-- 🔬 Working with **OM1 Agent Architecture**, **ROS2**, **Isaac Sim**, **MuJoCo**, and **NVIDIA Jetson Orin** for real-world humanoid intelligence
-- 📱 Published **100+ iOS apps** (135K+ downloads) through [Feraco Media](https://apps.apple.com/st/developer/feraco-media-inc/id497957884) — including AI/ML-powered tools built with ResearchKit, ARKit, and CoreML
-- ✈️ Co-authored the **[DroneBlocks Robotics 101: Land. Air. Sea.](https://droneblocks.io/program/land-air-sea/)** curriculum — a year-long project-based STEM program across ground, aerial, and underwater platforms
-- 🏥 Collaborated with **Stanford University** to develop [BActivate](https://apps.apple.com/us/app/bactivate/id6450705838), a digital health app integrating VR for behavioral activation therapy
-- 🐠 Founded a **Coral Aquaculture Research Program** and built CoreML-powered marine species identification (350+ species)
-- 🏫 Adjunct Professor of **Science of Drones** at [Five Towns College](https://www.ftc.edu/) | Formerly teaching AP CS, Cybersecurity, AI & Science Research at Walt Whitman HS
-- 🤝 Open to collaborations in **Humanoid Robotics, Embodied AI, RL Policy Training, Multimodal LLMs, Sim2Real Transfer**
+- Building **custom policy training pipelines** for the **Unitree G1 humanoid** — locomotion, manipulation, and whole-body control via reinforcement learning
+- Developing **custom multimodal LLMs** for **embodied AI** — integrating vision, language, and proprioceptive sensing on humanoid platforms
+- Creating the **[RoboUniversity](https://robouniversity.teachable.com/)** course catalog — full-stack humanoid robotics education from setup to Sim2Real deployment
+- Working with **OM1 Agent Architecture**, **ROS2**, **Isaac Sim**, **MuJoCo**, and **NVIDIA Jetson Orin** for real-world humanoid intelligence
+- Published **100+ iOS apps** (135K+ downloads) through [Feraco Media](https://apps.apple.com/st/developer/feraco-media-inc/id497957884) — including AI/ML-powered tools built with ResearchKit, ARKit, and CoreML
+- Co-authored the **[DroneBlocks Robotics 101: Land. Air. Sea.](https://droneblocks.io/program/land-air-sea/)** curriculum — a year-long project-based STEM program across ground, aerial, and underwater platforms
+- Collaborated with **Stanford University** to develop [BActivate](https://apps.apple.com/us/app/bactivate/id6450705838), a digital health app integrating VR for behavioral activation therapy
+- Founded a **Coral Aquaculture Research Program** and built CoreML-powered marine species identification (350+ species)
+- Adjunct Professor of **Science of Drones** at [Five Towns College](https://www.ftc.edu/) | Formerly teaching AP CS, Cybersecurity, AI & Science Research at Walt Whitman HS
+- Open to collaborations in **Humanoid Robotics, Embodied AI, RL Policy Training, Multimodal LLMs, Sim2Real Transfer**
 
 ---
 
-## 🤖 Unitree G1 — Humanoid Robotics Work
+## Unitree G1 — Humanoid Robotics Work
 
 <table>
   <tr>
     <td align="center" width="25%">
       <a href="https://github.com/feraco/training">
-        <img src="https://img.shields.io/badge/🧠_Custom-Policy%20Training-blue?style=for-the-badge" alt="Policy Training"/>
+        <img src="https://img.shields.io/badge/Custom-Policy%20Training-blue?style=for-the-badge" alt="Policy Training"/>
         <br/><sub><b>RL Policy Training for G1</b></sub>
       </a>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/feraco/roboai">
-        <img src="https://img.shields.io/badge/🤖_RoboAI-Embodied%20AI-green?style=for-the-badge" alt="RoboAI"/>
+        <img src="https://img.shields.io/badge/RoboAI-Embodied%20AI-green?style=for-the-badge" alt="RoboAI"/>
         <br/><sub><b>Multimodal AI Agent Platform</b></sub>
       </a>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/feraco/motiondata">
-        <img src="https://img.shields.io/badge/💃_Motion-Data%20Pipeline-orange?style=for-the-badge" alt="Motion Data"/>
+        <img src="https://img.shields.io/badge/Motion-Data%20Pipeline-orange?style=for-the-badge" alt="Motion Data"/>
         <br/><sub><b>Humanoid Motion Data</b></sub>
       </a>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/feraco/roboai-astra">
-        <img src="https://img.shields.io/badge/🌟_RoboAI-Multimodal%20AI-purple?style=for-the-badge" alt="RoboAI Multimodal"/>
+        <img src="https://img.shields.io/badge/RoboAI-Multimodal%20AI-purple?style=for-the-badge" alt="RoboAI Multimodal"/>
         <br/><sub><b>Multimodal LLM for G1</b></sub>
       </a>
     </td>
   </tr>
 </table>
 
-### 🧠 Custom Policy Training — Unitree G1
+### Custom Policy Training — Unitree G1
 
 Developing end-to-end **reinforcement learning pipelines** for the Unitree G1 humanoid:
 
@@ -76,7 +76,7 @@ Developing end-to-end **reinforcement learning pipelines** for the Unitree G1 hu
 - **Sim2Real transfer** — Bridging simulation-trained policies to physical G1 hardware via domain randomization and system identification
 - **Custom reward shaping** — Task-specific reward functions for manipulation, navigation, and human-robot interaction
 
-### 🧠 Custom Multimodal LLMs for Embodied AI
+### Custom Multimodal LLMs for Embodied AI
 
 Building **custom large language models** that integrate multiple modalities for humanoid intelligence:
 
@@ -87,14 +87,14 @@ Building **custom large language models** that integrate multiple modalities for
 
 ---
 
-## 🎓 RoboUniversity — Course Development
+## RoboUniversity — Course Development
 
 > Building the **full-stack humanoid robotics education platform** at [RoboUniversity](https://robouniversity.teachable.com/)
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center"><a href="https://robouniversity.teachable.com/p/intro-to-g1">🤖 Getting Started with the Unitree G1</a></h3>
+      <h3 align="center"><a href="https://robouniversity.teachable.com/p/intro-to-g1"> Getting Started with the Unitree G1</a></h3>
       <p align="center">Quick-start course: power on, connect, update firmware, debug, and safely operate the G1 humanoid</p>
       <p align="center">
         <img src="https://img.shields.io/badge/6%20Lessons-~7%20min-blue?style=flat-square"/>
@@ -102,7 +102,7 @@ Building **custom large language models** that integrate multiple modalities for
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><a href="https://robouniversity.teachable.com/l/pdp/mastering-humanoid-simulation-with-mujoco-the-g1">🎮 Mastering Humanoid Simulation with MuJoCo & G1</a></h3>
+      <h3 align="center"><a href="https://robouniversity.teachable.com/l/pdp/mastering-humanoid-simulation-with-mujoco-the-g1"> Mastering Humanoid Simulation with MuJoCo & G1</a></h3>
       <p align="center">Install MuJoCo, import G1 model, tune physics, run motion demos, and visualize humanoid data in 3D with Rerun</p>
       <p align="center">
         <img src="https://img.shields.io/badge/10%20Modules-MuJoCo-blueviolet?style=flat-square"/>
@@ -112,7 +112,7 @@ Building **custom large language models** that integrate multiple modalities for
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><a href="https://robouniversity.teachable.com/l/pdp/om1-integration-with-unitree-g11">🧠 OM1 Integration on G1: Powered by Open Mind</a></h3>
+      <h3 align="center"><a href="https://robouniversity.teachable.com/l/pdp/om1-integration-with-unitree-g11"> OM1 Integration on G1: Powered by Open Mind</a></h3>
       <p align="center">40-hour deep dive: ROS2, CycloneDDS, OM1 Agent Architecture, G1 SDK motor control, teleoperation & VR streaming</p>
       <p align="center">
         <img src="https://img.shields.io/badge/24%20Lessons-40%20hours-green?style=flat-square"/>
@@ -120,7 +120,7 @@ Building **custom large language models** that integrate multiple modalities for
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><a href="https://robouniversity.teachable.com/l/pdp/sim2real-embodied-ai-with-isaac-sim-and-unitree-g1">⚡ Sim2Real: Embodied AI with Isaac Sim & Unitree G1</a></h3>
+      <h3 align="center"><a href="https://robouniversity.teachable.com/l/pdp/sim2real-embodied-ai-with-isaac-sim-and-unitree-g1"> Sim2Real: Embodied AI with Isaac Sim & Unitree G1</a></h3>
       <p align="center">End-to-end: Isaac Sim setup, PPO RL training, domain randomization, ROS2 bridging, Sim2Real deployment</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Full%20Pipeline-Sim2Real-red?style=flat-square"/>
@@ -130,7 +130,7 @@ Building **custom large language models** that integrate multiple modalities for
   </tr>
   <tr>
     <td width="50%" colspan="2">
-      <h3 align="center"><a href="https://robouniversity.teachable.com/p/unitree-go2-setup-and-operation-essentials">🐕 Unitree Go2: Setup & Operation Essentials</a></h3>
+      <h3 align="center"><a href="https://robouniversity.teachable.com/p/unitree-go2-setup-and-operation-essentials"> Unitree Go2: Setup & Operation Essentials</a></h3>
       <p align="center">15 lessons covering unboxing, firmware, calibration, AI modes, mapping/navigation, and remote control</p>
       <p align="center">
         <img src="https://img.shields.io/badge/15%20Lessons-~25%20min-blue?style=flat-square"/>
@@ -145,14 +145,14 @@ Building **custom large language models** that integrate multiple modalities for
 
 ---
 
-## 🔬 Featured Projects
+## Featured Projects
 
-### 🤖 Humanoid Robotics & Embodied AI
+### Humanoid Robotics & Embodied AI
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center"><a href="https://github.com/feraco/training">🧠 Policy Training</a></h3>
+      <h3 align="center"><a href="https://github.com/feraco/training"> Policy Training</a></h3>
       <p align="center">Custom RL policy training for Unitree G1 locomotion & control</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -160,7 +160,7 @@ Building **custom large language models** that integrate multiple modalities for
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><a href="https://github.com/feraco/roboai">🤖 RoboAI</a></h3>
+      <h3 align="center"><a href="https://github.com/feraco/roboai"> RoboAI</a></h3>
       <p align="center">Multimodal AI platform for embodied robot intelligence</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -170,7 +170,7 @@ Building **custom large language models** that integrate multiple modalities for
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><a href="https://github.com/feraco/roboai-astra">🌟 RoboAI Multimodal</a></h3>
+      <h3 align="center"><a href="https://github.com/feraco/roboai-astra"> RoboAI Multimodal</a></h3>
       <p align="center">Custom multimodal LLM integration for humanoid perception & reasoning</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -178,7 +178,7 @@ Building **custom large language models** that integrate multiple modalities for
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><a href="https://github.com/feraco/motiondata">💃 Motion Data</a></h3>
+      <h3 align="center"><a href="https://github.com/feraco/motiondata"> Motion Data</a></h3>
       <p align="center">Humanoid motion data collection, processing & replay pipeline</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -187,14 +187,14 @@ Building **custom large language models** that integrate multiple modalities for
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><a href="https://github.com/feraco/robostore-robojudo">🥋 RoboJudo</a></h3>
+      <h3 align="center"><a href="https://github.com/feraco/robostore-robojudo"> RoboJudo</a></h3>
       <p align="center">Humanoid robot combat simulation & control</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><a href="https://github.com/feraco/robot-usd">📐 Robot USD</a></h3>
+      <h3 align="center"><a href="https://github.com/feraco/robot-usd"> Robot USD</a></h3>
       <p align="center">USD scene descriptions for robot simulation environments</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -204,7 +204,7 @@ Building **custom large language models** that integrate multiple modalities for
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><a href="https://github.com/feraco/mujoco_menagerie">🎮 MuJoCo Menagerie</a></h3>
+      <h3 align="center"><a href="https://github.com/feraco/mujoco_menagerie"> MuJoCo Menagerie</a></h3>
       <p align="center">High-quality robot models for MuJoCo (G1 simulation)</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -212,7 +212,7 @@ Building **custom large language models** that integrate multiple modalities for
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><a href="https://github.com/feraco/loco-mujoco">🏃 Loco-MuJoCo</a></h3>
+      <h3 align="center"><a href="https://github.com/feraco/loco-mujoco"> Loco-MuJoCo</a></h3>
       <p align="center">Imitation learning benchmark for complex locomotion</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -222,58 +222,58 @@ Building **custom large language models** that integrate multiple modalities for
   </tr>
 </table>
 
-### ✈️ Drones, Rovers & Simulation
+### Drones, Rovers & Simulation
 
 <table>
   <tr>
     <td width="33%">
-      <h3 align="center"><a href="https://github.com/feraco/drone-web-sim">🌐 Drone Web Sim</a></h3>
+      <h3 align="center"><a href="https://github.com/feraco/drone-web-sim"> Drone Web Sim</a></h3>
       <p align="center">Browser-based 3D drone flight simulator</p>
     </td>
     <td width="33%">
-      <h3 align="center"><a href="https://github.com/feraco/rover-sim">🚗 Rover Sim</a></h3>
+      <h3 align="center"><a href="https://github.com/feraco/rover-sim"> Rover Sim</a></h3>
       <p align="center">Ground rover simulation environment</p>
     </td>
     <td width="33%">
-      <h3 align="center"><a href="https://github.com/feraco/LAS_ROVSIM">🌊 ROV Simulator</a></h3>
+      <h3 align="center"><a href="https://github.com/feraco/LAS_ROVSIM"> ROV Simulator</a></h3>
       <p align="center">Underwater ROV simulation (Land Air Sea)</p>
     </td>
   </tr>
 </table>
 
-### 🔧 Hardware, Arduino & EdTech
+### Hardware, Arduino & EdTech
 
 <table>
   <tr>
     <td width="33%">
-      <h3 align="center"><a href="https://github.com/feraco/Blockly-arduino-code-convert">🧱 Blockly Arduino</a></h3>
+      <h3 align="center"><a href="https://github.com/feraco/Blockly-arduino-code-convert"> Blockly Arduino</a></h3>
       <p align="center">Visual block code → Arduino sketch converter with real-time generation</p>
     </td>
     <td width="33%">
-      <h3 align="center"><a href="https://github.com/feraco/ESP-Cam-system">📸 ESP32 Timelapse</a></h3>
+      <h3 align="center"><a href="https://github.com/feraco/ESP-Cam-system"> ESP32 Timelapse</a></h3>
       <p align="center">ESP32 camera timelapse system for scientific investigations</p>
     </td>
     <td width="33%">
-      <h3 align="center"><a href="https://github.com/feraco/Elegoo-robot-code-samples">🤖 Elegoo Robot Samples</a></h3>
+      <h3 align="center"><a href="https://github.com/feraco/Elegoo-robot-code-samples"> Elegoo Robot Samples</a></h3>
       <p align="center">Arduino robot code samples for CS education</p>
     </td>
   </tr>
 </table>
 
-### 📱 iOS & Mobile (Selected)
+### iOS & Mobile (Selected)
 
 <table>
   <tr>
     <td width="33%">
-      <h3 align="center"><a href="https://apps.apple.com/us/app/bactivate/id6450705838">🏥 BActivate</a></h3>
+      <h3 align="center"><a href="https://apps.apple.com/us/app/bactivate/id6450705838"> BActivate</a></h3>
       <p align="center">Stanford digital health app (VR + behavioral activation)</p>
     </td>
     <td width="33%">
-      <h3 align="center"><a href="https://apps.apple.com/us/app/ai-reef-cam/id1599324535">🐠 AI Reef Cam</a></h3>
+      <h3 align="center"><a href="https://apps.apple.com/us/app/ai-reef-cam/id1599324535"> AI Reef Cam</a></h3>
       <p align="center">CoreML marine species ID (350+ species)</p>
     </td>
     <td width="33%">
-      <h3 align="center"><a href="https://github.com/feraco/Neuroplay">🧠 Neuroplay</a></h3>
+      <h3 align="center"><a href="https://github.com/feraco/Neuroplay"> Neuroplay</a></h3>
       <p align="center">Neural interface & brain-computer interaction</p>
     </td>
   </tr>
@@ -281,18 +281,18 @@ Building **custom large language models** that integrate multiple modalities for
 
 ---
 
-## � Publications & Curriculum
+## Publications & Curriculum
 
 | Title | Type | Link |
 |:------|:-----|:----:|
-| **Robotics 101: Land. Air. Sea.** — DroneBlocks year-long STEM curriculum (co-author) | 📘 Curriculum | [🔗](https://droneblocks.io/program/land-air-sea/) |
-| **Feraco Media iOS Publications** — 100+ apps on the App Store since 2012 | 📱 Apps | [🔗](https://apps.apple.com/st/developer/feraco-media-inc/id497957884) |
-| **BActivate** — Stanford University digital health application | 🏥 App | [🔗](https://apps.apple.com/us/app/bactivate/id6450705838) |
-| **AI Reef Cam** — CoreML marine species identification (350+ species) | 🐠 App | [🔗](https://apps.apple.com/us/app/ai-reef-cam/id1599324535) |
+| **Robotics 101: Land. Air. Sea.** — DroneBlocks year-long STEM curriculum (co-author) |  Curriculum | [](https://droneblocks.io/program/land-air-sea/) |
+| **Feraco Media iOS Publications** — 100+ apps on the App Store since 2012 |  Apps | [](https://apps.apple.com/st/developer/feraco-media-inc/id497957884) |
+| **BActivate** — Stanford University digital health application |  App | [](https://apps.apple.com/us/app/bactivate/id6450705838) |
+| **AI Reef Cam** — CoreML marine species identification (350+ species) |  App | [](https://apps.apple.com/us/app/ai-reef-cam/id1599324535) |
 
 ---
 
-## �💻 Tech Stack
+## Tech Stack
 
 <div align="center">
 <table>
@@ -302,8 +302,8 @@ Building **custom large language models** that integrate multiple modalities for
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-      <br>C++
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C+" width="65" height="65" />
+      <br>C+
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="Swift" width="65" height="65" />
@@ -391,7 +391,7 @@ Building **custom large language models** that integrate multiple modalities for
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -431,7 +431,7 @@ Building **custom large language models** that integrate multiple modalities for
 
 <div align="center">
 
-### 💬 Let's Connect
+### Let's Connect
 
 <p>
 <i>Building the future of humanoid robotics education — from simulation to real-world deployment.<br/>
